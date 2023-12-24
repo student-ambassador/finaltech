@@ -48,10 +48,10 @@ const projectList = [
     url: "https://drive.google.com/file/d/1YJfSjO1ygt8faFoYQigZgbfEJHaDPD5F/view?usp=drivesdk",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LinkedIn Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Connect with me on LinkedIn to explore my professional network and stay updated on my latest endeavors",
+    url: "www.linkedin.com/in/tumu-sai-snehitha-239183235",
   },
 ];
 
