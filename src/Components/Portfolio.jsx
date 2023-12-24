@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Dive into my coding adventures and insights on QuantumQuill Diaries, where I share my journey in the world of technology and code.",
+    url: "https://www.blogger.com/u/2/blog/posts/8559546434885609178",
   },
   {
     title: "GitHub Link",
