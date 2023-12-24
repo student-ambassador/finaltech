@@ -24,7 +24,7 @@ const imageAltText = "a library full of books";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an enthusiastic AI/ML Engineer currently shaping the future at Jain University.My journey in the realm of artificial intelligence and machine learning is fueled by a passion for innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
