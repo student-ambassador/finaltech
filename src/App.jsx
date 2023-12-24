@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sai Snehitha",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "AI & ML Engineer",
+  email: "snehitha12chowdary@gmail.com",
+  gitHub: "student-ambassador",
+  instagram: "snehitha_chowdary12",
+  linkedIn: "TUMU.SAI SNEHITHA",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
