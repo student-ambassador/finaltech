@@ -44,7 +44,7 @@ const projectList = [
   },
   {
     title: "My Resume",
-    description: "This is my Resume",
+    description: "Explore my professional journey and qualifications by downloading my resume here",
     url: "https://drive.google.com/file/d/1YJfSjO1ygt8faFoYQigZgbfEJHaDPD5F/view?usp=drivesdk",
   },
   {
