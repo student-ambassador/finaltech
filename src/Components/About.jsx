@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Algorithm Development",
+  "Natural Language Processing",
+  "Computer Vision",
+  "Data Science",
+  "Statistical Analysis",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Beyond the lines of code, I find joy in deciphering complex problems and translating them into elegant, efficient algorithms. Much like designing an intuitive user interface, my approach to AI/ML engineering is centered around simplicity and effectiveness.";
 
 const About = () => {
   return (
