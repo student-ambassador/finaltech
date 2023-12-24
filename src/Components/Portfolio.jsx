@@ -51,7 +51,7 @@ const projectList = [
     title: "LinkedIn Profile",
     description:
       "Connect with me on LinkedIn to explore my professional network and stay updated on my latest endeavors",
-    url: " www.linkedin.com/in/tumu-sai-snehitha-239183235 ",
+    url: "https://www.linkedin.com/in/tumu-sai-snehitha-239183235/",
   },
 ];
 
