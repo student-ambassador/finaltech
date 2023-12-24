@@ -38,8 +38,7 @@ const projectList = [
   },
   {
     title: "GitHub Link",
-    description:
-      "Explore my coding adventures and collaborative projects on GitHub",
+    description: "Explore my coding adventures and collaborative projects on GitHub",
     url: "https://github.com/student-ambassador",
   },
   {
