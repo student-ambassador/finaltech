@@ -43,10 +43,9 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Resume",
+    description: "This is my Resume",
+    url: "https://drive.google.com/file/d/1YJfSjO1ygt8faFoYQigZgbfEJHaDPD5F/view?usp=drivesdk",
   },
   {
     title: "GitHub Codespaces and github.dev",
